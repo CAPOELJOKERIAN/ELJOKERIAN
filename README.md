@@ -19,10 +19,10 @@ $ apt-get update
 
  We write attack orders
 
- cd ELJOKERIAN
+ $ cd ELJOKERIAN
 
- python ELJOKERIAN.py
+ $ python ELJOKERIAN.py
 
- python ELJOKERIAN.py -s (ip site) -t 135
+ $ python ELJOKERIAN.py -s (ip site) -t 135
 
 2. Fork it...
